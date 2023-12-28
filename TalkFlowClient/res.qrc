@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/key.png</file>
+        <file>img/logo.png</file>
+        <file>img/login_background.png</file>
+        <file>img/user.png</file>
+        <file>img/agree.png</file>
+        <file>img/abject.png</file>
+        <file>img/creater.png</file>
+        <file>img/register.png</file>
+        <file>img/send.png</file>
+        <file>img/login.png</file>
+        <file>img/search.png</file>
+        <file>img/background.png</file>
+        <file>img/yes.png</file>
+        <file>img/background2.png</file>
+        <file>img/avatarimg.png</file>
+        <file>img/lucency.png</file>
+        <file>img/touxiang1.png</file>
+        <file>img/touxiang2.png</file>
+        <file>img/touxiang3.png</file>
+        <file>img/touxiang4.png</file>
+        <file>img/touxiang5.png</file>
+        <file>img/touxiang6.png</file>
+        <file>img/friends.png</file>
+        <file>img/group.png</file>
+        <file>img/whiteadd.png</file>
+        <file>img/white-cancel.png</file>
+        <file>img/whitedel.png</file>
+        <file>img/whiteout.png</file>
+        <file>img/home.png</file>
+        <file>img/changeavatar.png</file>
+        <file>img/change-name.png</file>
+        <file>img/white-yes.png</file>
+        <file>img/grouphome.png</file>
+        <file>img/addgroup.png</file>
+        <file>img/outgroup.png</file>
+        <file>img/registerbackground.png</file>
+        <file>img/chat.png</file>
+        <file>img/logo2.png</file>
+        <file>img/receivefile.png</file>
+        <file>img/sendfile.png</file>
+    </qresource>
+</RCC>
